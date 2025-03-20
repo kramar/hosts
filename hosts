@@ -8015,6 +8015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.com
 0.0.0.0 s0-2mdn-net.l.google.com
 
+# Enable to allow clicking on the googles goods in the search
 # [googleadservices.com]
 # 0.0.0.0 googleadservices.com
 # 0.0.0.0 pagead2.googleadservices.com
